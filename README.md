@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mirageorge
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on several python projects to develop my skills
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning HTML/CSS
+- 💞️ I’m looking to collaborate on several webdev projects to develop my skills
 - 📫 Reach me on twitter @mirandaibgeorge
 
 <!---
