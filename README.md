@@ -2,4 +2,3 @@
 - 👀 Web development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on several webdev projects to develop my skills
-- 📫 Reach me on twitter @mirandaibgeorge
