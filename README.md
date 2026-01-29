@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Mirageorge
-- 👀 Web development
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on several webdev projects to develop my skills
+- 👀 Biomedical, Medical data
+- 🌱 I’m currently learning
+- 💞️ I’m looking to collaborate on several webdev projects to develop data processing
